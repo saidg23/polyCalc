@@ -1,2 +1,2 @@
 # polyCalc
-This program can calculate the are a any regular polygon
+This program can calculate the area any regular polygon
